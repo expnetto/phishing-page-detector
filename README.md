@@ -114,7 +114,7 @@ Verdadeiro Fraud.  [ 90 ]  [ 20 ]   ← Recall 81.8% ✅
 ```
 phishield/
 │
-├── Modelo_TCC_Final.ipynb       # Notebook principal (Google Colab)
+├── PhiShield.ipynb       # Notebook principal (Google Colab)
 │
 ├── dataset/                     # Organização esperada do dataset
 │   ├── fraudulenta/             # Screenshots de páginas phishing
@@ -127,7 +127,8 @@ phishield/
 │   ├── roc_curve.png
 │   └── loss_accuracy_curves.png
 │
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
